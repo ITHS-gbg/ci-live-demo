@@ -34,7 +34,7 @@ jobs:
       
     - name: Test Report
       uses: dorny/test-reporter@v1
-      if: success() || failure() # run this step even if previous step failed
+      if: success() || failure()
       with:
         name: Test
         path: ./iths.cidemo.api/Iths.CiDemo.Api.Tests/TestResults/*.trx
