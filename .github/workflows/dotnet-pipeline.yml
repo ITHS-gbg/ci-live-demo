@@ -24,10 +24,10 @@ jobs:
         dotnet-version: 7.x
         
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore ./iths.cidemo.api/*.sln
       
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build ./iths.cidemo.api/*.sln --no-restore
       
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test ./iths.cidemo.api/*.Tests*  --no-build --verbosity normal
