@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iths.CiDemo.Api", "Iths.CiDemo.Api\Iths.CiDemo.Api.csproj", "{A7ED065C-4E25-4E28-8194-24E1B9BB8080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iths.CiDemo.Api.Tests", "Iths.CiDemo.Api.Tests\Iths.CiDemo.Api.Tests.csproj", "{0AE60A33-B57F-4B73-AF25-09C46CF2453E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7ED065C-4E25-4E28-8194-24E1B9BB8080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7ED065C-4E25-4E28-8194-24E1B9BB8080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7ED065C-4E25-4E28-8194-24E1B9BB8080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7ED065C-4E25-4E28-8194-24E1B9BB8080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE60A33-B57F-4B73-AF25-09C46CF2453E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE60A33-B57F-4B73-AF25-09C46CF2453E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE60A33-B57F-4B73-AF25-09C46CF2453E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE60A33-B57F-4B73-AF25-09C46CF2453E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=150cd137_002D015f_002D4fa2_002Db1f1_002D7c7562e9bd5b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Calculator_Add_ReturnsCorrectSum" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::0AE60A33-B57F-4B73-AF25-09C46CF2453E::net7.0::Iths.CiDemo.Api.Tests.ApiTests.Calculator_Add_ReturnsCorrectSum&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=87379057_002D8a83_002D43f6_002Db728_002Dad789d0e86a9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ApiTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::0AE60A33-B57F-4B73-AF25-09C46CF2453E::net7.0::Iths.CiDemo.Api.Tests.ApiTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
