@@ -37,5 +37,5 @@ jobs:
       if: success() || failure() # run this step even if previous step failed
       with:
         name: Test
-        path: ./iths.cidemo.api/Iths.CiDemo.Api.Tests/test-results.trx
+        path: ./iths.cidemo.api/Iths.CiDemo.Api.Tests/TestResults/*.trx
         reporter: dotnet-trx 
