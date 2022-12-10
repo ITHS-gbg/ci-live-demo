@@ -6,9 +6,11 @@ builder.Services.AddTransient<StringCalculator>();
 
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
-
-app.MapPost("/add/{values}", (StringCalculator calc, string values) 
+app.MapPost("/add/{values}", (StringCalculator calc, string values)
     => calc.Add(values));
 
 app.Run();
+
+public partial class Program
+{
+}
